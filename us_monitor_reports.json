@@ -1,0 +1,470 @@
+[
+  {
+    "round": 1,
+    "beijing_time": "2026-02-27T16:03:16.174235+08:00",
+    "ny_time": "2026-02-27T03:03:16.174241-05:00",
+    "report": "\n📊 **美股监控报告 #1**\n**北京时间：** 2026-02-27 16:03\n**纽约时间：** 2026-02-27 03:03  |  距休盘: 13小时57分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, at 11:02 AM ET, the SPDR S&P 500 ETF Trust (SPY) stock on the NYSE is showing a posit...\n| **QQQ** | 🟡 | 获取失败: HTTPSConnectionPool(host='generativelanguage.googl...\n| **BABA** | 🟡 | On February 26, 2026, the BABA stock price on the NYSE has seen a change of -4.01%. The current trading price is 146.18....\n| **TSLA** | 🟢 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.00%. The price was reported as $409.05. Anothe...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. Despite reporting strong earnings, the stoc...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock traded at $20.33, reflecti...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:08)\n---"
+  },
+  {
+    "round": 2,
+    "beijing_time": "2026-02-27T16:09:44.851674+08:00",
+    "ny_time": "2026-02-27T03:09:44.851684-05:00",
+    "report": "\n📊 **美股监控报告 #2**\n**北京时间：** 2026-02-27 16:09\n**纽约时间：** 2026-02-27 03:09  |  距休盘: 13小时51分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock has experienced a price change today. The opening price ...\n| **QQQ** | 🟢 | As of Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) ETF has seen varying price changes throughout the trading...\n| **BABA** | 🟢 | As of February 26, 2026, during trading hours on the NYSE, Alibaba Group Holding Limited (BABA) stock is up 0.22% relati...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.00%. The stock was trading at $409.05. Another...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. As of 10:05 AM Eastern Time, NVDA's stock h...\n| **M** | 🔴 | As of Thursday, February 26, 2026, Macy's (M) stock is trading down by 2.5% on the NYSE. Shares of M stock opened at $20...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:14)\n---"
+  },
+  {
+    "round": 3,
+    "beijing_time": "2026-02-27T16:16:00.980230+08:00",
+    "ny_time": "2026-02-27T03:16:00.980237-05:00",
+    "report": "\n📊 **美股监控报告 #3**\n**北京时间：** 2026-02-27 16:16\n**纽约时间：** 2026-02-27 03:16  |  距休盘: 13小时44分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, during market hours, the SPDR S&P 500 ETF (SPY) is up approximately 0.12%. The market in New Yo...\n| **QQQ** | 🟡 | As of 11:15 AM ET on Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) is showing varied price changes across dif...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE opened down by 3.06%. Later in the day, around ...\n| **TSLA** | 🟡 | As of Thursday, February 26, 2026, at 10:56 AM ET, Tesla (TSLA) stock has experienced a price change of -2.00%. The curr...\n| **NVDA** | 🔴 | As of February 26, 2026, NVIDIA (NVDA) stock on the NYSE has seen a daily change of -2.7%. The current price for NVDA is...\n| **M** | 🟢 | On Thursday, February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock was trading at $...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:21)\n---"
+  },
+  {
+    "round": 4,
+    "beijing_time": "2026-02-27T16:22:18.194857+08:00",
+    "ny_time": "2026-02-27T03:22:18.194870-05:00",
+    "report": "\n📊 **美股监控报告 #4**\n**北京时间：** 2026-02-27 16:22\n**纽约时间：** 2026-02-27 03:22  |  距休盘: 13小时38分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, at 11:21 AM ET, the SPDR S&P 500 ETF Trust (SPY) stock is showing a positive change o...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, the Invesco QQQ Trust ETF (QQQ) was down 0.04% in pre-market trading. The stock opene...\n| **BABA** | 🟢 | As of Thursday, February 26, 2026, at 11:18 AM ET on the NYSE, Alibaba Group Holding ADR (BABA) stock has changed by -3....\n| **TSLA** | 🔴 | As of February 26, 2026, TSLA stock has seen a price change today. At 10:08 AM ET, Tesla (TSLA) stock was down 1.1%. Lat...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced fluctuations in its price change. Early in the day, ahead of Thurs...\n| **M** | 🟡 | As of Thursday, February 26, 2026, Macy's (M) stock on the NYSE shows a price change of +0.14%, with the stock trading a...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:27)\n---"
+  },
+  {
+    "round": 5,
+    "beijing_time": "2026-02-27T16:28:51.983300+08:00",
+    "ny_time": "2026-02-27T03:28:51.983306-05:00",
+    "report": "\n📊 **美股监控报告 #5**\n**北京时间：** 2026-02-27 16:28\n**纽约时间：** 2026-02-27 03:28  |  距休盘: 13小时32分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 25, 2026, the SPDR S&P 500 ETF Trust (SPY) stock closed at $693.15, marking an increase of 0.84% from the...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust ETF (QQQ) experienced a price decrease of approximately 0.48%. The QQQ opene...\n| **BABA** | 🟢 | As of Thursday, February 26, 2026, at 11:18 AM ET, Alibaba Group Holding ADR (BABA) stock has seen a price change of -3....\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a change in its current price....\n| **NVDA** | 🟢 | On Thursday, February 26, 2026, NVIDIA (NVDA) stock has experienced a decline, tumbling by 4.7 percent on the NYSE. This...\n| **M** | 🔴 | As of Thursday, February 26, 2026, Macy's (M) stock on the NYSE is trading down 2.5%. Shares of Macy's opened at $20.31 ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:33)\n---"
+  },
+  {
+    "round": 6,
+    "beijing_time": "2026-02-27T16:35:14.918083+08:00",
+    "ny_time": "2026-02-27T03:35:14.918089-05:00",
+    "report": "\n📊 **美股监控报告 #6**\n**北京时间：** 2026-02-27 16:35\n**纽约时间：** 2026-02-27 03:35  |  距休盘: 13小时25分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | I cannot provide the current price change percentage for SPY stock on February 26, 2026. As of 11:34 AM in New York, the...\n| **QQQ** | 🟡 | As of February 26, 2026, at 11:34 AM ET, the Invesco QQQ Trust, Series 1 (QQQ) stock has a price change of -1.49% today....\n| **BABA** | 🟢 | On Thursday, February 26, 2026, Alibaba Group Holding Limited (NYSE: BABA) opened at $152.31. As of 10:49 a.m. ET, the s...\n| **TSLA** | 🟡 | As of Thursday, February 26, 2026, at 10:56 AM ET, Tesla (TSLA) stock on the NASDAQ has experienced a price change of -2...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock has experienced a significant downturn, tumbling by 4.7 percent. This decline ...\n| **M** | 🔴 | On February 26, 2026, the price change percentage for Macy's (M) stock on the NYSE varied throughout the day across diff...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:40)\n---"
+  },
+  {
+    "round": 7,
+    "beijing_time": "2026-02-27T16:41:28.820022+08:00",
+    "ny_time": "2026-02-27T03:41:28.820031-05:00",
+    "report": "\n📊 **美股监控报告 #7**\n**北京时间：** 2026-02-27 16:41\n**纽约时间：** 2026-02-27 03:41  |  距休盘: 13小时19分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock is down 0.8% as of 4:15 PM UTC. Early in the trading day, S...\n| **QQQ** | 🟢 | On February 26, 2026, the Invesco QQQ Trust, Series 1 (QQQ) stock experienced a positive change in its price....\n| **BABA** | 🟡 | On February 26, 2026, the price change percentage for BABA stock on the NYSE shows slight variations across different fi...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of approximately -1.9% to -2.0%. As of 11:10 a.m. ET...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock tumbled by 4.7 percent on the NYSE. This decline was attributed to a negative ...\n| **M** | 🟢 | As of February 26, 2026, Macy's (M) stock on the NYSE shows varying price changes during the trading day....\n\n**🚨 异动检测：** NVDA 出现异常波动\n\n**⏱️ 下次报告：** 5分钟后 (16:46)\n---"
+  },
+  {
+    "round": 8,
+    "beijing_time": "2026-02-27T16:48:17.801588+08:00",
+    "ny_time": "2026-02-27T03:48:17.801600-05:00",
+    "report": "\n📊 **美股监控报告 #8**\n**北京时间：** 2026-02-27 16:48\n**纽约时间：** 2026-02-27 03:48  |  距休盘: 13小时12分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, at 11:47 AM Eastern Time, the SPDR S&P 500 ETF Trust (SPY) has seen a price change. T...\n| **QQQ** | 🟡 | As of February 26, 2026, during market hours, the Invesco QQQ Trust (QQQ) shows an intra-day price change. The QQQ opene...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE has seen fluctuations in its price change perce...\n| **TSLA** | 🟡 | On Thursday, February 26, 2026, Tesla (TSLA) stock experienced a decline in its price. As of 11:26 AM ET, TSLA was tradi...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline of 4.7% on the NYSE. This downturn was attributed to a n...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock traded at $20.33, an incre...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:53)\n---"
+  },
+  {
+    "round": 9,
+    "beijing_time": "2026-02-27T16:54:42.003089+08:00",
+    "ny_time": "2026-02-27T03:54:42.003102-05:00",
+    "report": "\n📊 **美股监控报告 #9**\n**北京时间：** 2026-02-27 16:54\n**纽约时间：** 2026-02-27 03:54  |  距休盘: 13小时6分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock is showing a current price of $689.49. This represents a...\n| **QQQ** | 🟡 | February 26, 2026, is a trading day for the NYSE....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE opened down by 3.06%. The shares opened at ...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced fluctuations, with various sources reporting different price change...\n| **NVDA** | 🔴 | On February 26, 2026, NVDA stock experienced a decline in its price. Nvidia was reported among the biggest losers, with ...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock experienced a change in its share price. According to The Motley Fool, as of 10:1...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (16:59)\n---"
+  },
+  {
+    "round": 10,
+    "beijing_time": "2026-02-27T17:01:19.054780+08:00",
+    "ny_time": "2026-02-27T04:01:19.054790-05:00",
+    "report": "\n📊 **美股监控报告 #10**\n**北京时间：** 2026-02-27 17:01\n**纽约时间：** 2026-02-27 04:01  |  距休盘: 12小时59分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock exhibited a price change of +0.05% on the NYSE. E...\n| **QQQ** | 🟢 | As of February 26, 2026, the Invesco QQQ Trust (QQQ) stock is up 1.4%. The stock opened at $616.34 on Thursday. During t...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock opened down by 3.06% on the NYSE. The opening price for...\n| **TSLA** | 🔴 | On Thursday, February 26, 2026, Tesla (TSLA) stock experienced a price change. TSLA was down 2.3%, or -$9.56, with a cur...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline of 4.7% on the NYSE. This drop occurred amid a negative ...\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock on the NYSE is down by 0.92% relative to its opening price, a decrease of $0.2....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:06)\n---"
+  },
+  {
+    "round": 11,
+    "beijing_time": "2026-02-27T17:07:58.556813+08:00",
+    "ny_time": "2026-02-27T04:07:58.556818-05:00",
+    "report": "\n📊 **美股监控报告 #11**\n**北京时间：** 2026-02-27 17:07\n**纽约时间：** 2026-02-27 04:07  |  距休盘: 12小时53分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of 12:07 PM EST on Thursday, February 26, 2026, the current price change percentage for SPY stock on the NYSE for tod...\n| **QQQ** | 🟢 | As of February 26, 2026, the QQQ stock has seen a positive change today. The Invesco QQQ Trust (QQQ) opened at $611.11. ...\n| **BABA** | 🟡 | On Thursday, February 26, 2026, as of 11:18 AM ET, Alibaba (BABA) stock on the NYSE showed a price change of -3.49%. The...\n| **TSLA** | 🟡 | As of February 26, 2026, Tesla (TSLA) stock has shown a decline in its price....\n| **NVDA** | 🟡 | On February 26, 2026, NVIDIA (NVDA) stock experienced a price change of -4.19% as of 11:37 AM, with pricing delayed by 2...\n| **M** | 🔴 | As of Thursday, February 26, 2026, Macy's (M) stock price is down by 0.92% relative to its opening price today. The curr...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:12)\n---"
+  },
+  {
+    "round": 12,
+    "beijing_time": "2026-02-27T17:14:18.992693+08:00",
+    "ny_time": "2026-02-27T04:14:18.992703-05:00",
+    "report": "\n📊 **美股监控报告 #12**\n**北京时间：** 2026-02-27 17:14\n**纽约时间：** 2026-02-27 04:14  |  距休盘: 12小时46分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) on the NYSE showed a slight decrease in its price. The ...\n| **QQQ** | 🟢 | On Thursday, February 26, 2026, the Invesco QQQ Trust ETF (QQQ) was down 0.04% in pre-market trading. For context, the Q...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE showed a price change of -3.49% at 11:18 AM ET,...\n| **TSLA** | 🔴 | As of Thursday, February 26, 2026, the TSLA stock price change percent today shows some variation depending on the sourc...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant price change on the NYSE. The stock was down by 4.19...\n| **M** | 🟢 | As of February 26, 2026, at 10:10 a.m. ET, Macy's (M) stock on the NYSE showed a daily price change of +0.07, representi...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:19)\n---"
+  },
+  {
+    "round": 13,
+    "beijing_time": "2026-02-27T17:21:13.900361+08:00",
+    "ny_time": "2026-02-27T04:21:13.900366-05:00",
+    "report": "\n📊 **美股监控报告 #13**\n**北京时间：** 2026-02-27 17:21\n**纽约时间：** 2026-02-27 04:21  |  距休盘: 12小时39分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, at 12:20 PM EST, the NYSE is still open, and the final price change percentage for SPY stock fo...\n| **QQQ** | 🟡 | On Thursday, February 26, 2026, the Invesco QQQ Trust, Series 1 (QQQ) showed a price of $616.94 with a 0.04% change. Ear...\n| **BABA** | 🟢 | On February 26, 2026, as of 11:25 AM EST, Alibaba Group Holding Limited (BABA) stock on the NYSE showed a price change o...\n| **TSLA** | 🔴 | As of Thursday, February 26, 2026, at 11:54 AM ET, Tesla (TSLA) stock has experienced a -2.76% change on the NYSE. The p...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant change on the NYSE. After initially showing gains in...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a current price change of +0.14%. The stock was trading at $20...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:26)\n---"
+  },
+  {
+    "round": 14,
+    "beijing_time": "2026-02-27T17:27:41.808337+08:00",
+    "ny_time": "2026-02-27T04:27:41.808347-05:00",
+    "report": "\n📊 **美股监控报告 #14**\n**北京时间：** 2026-02-27 17:27\n**纽约时间：** 2026-02-27 04:27  |  距休盘: 12小时33分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) is trading at $692.15. The stock has fluctuated today between ...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, during market hours, the Invesco QQQ Trust (QQQ) has seen a price change of -1.49%. Q...\n| **BABA** | 🔴 | On February 26, 2026, Alibaba (BABA) stock on the NYSE has seen a decline in its price. It opened down by 3.06%. As of 1...\n| **TSLA** | 🔴 | As of February 26, 2026, during trading hours on the NYSE, Tesla (TSLA) stock has seen a decrease in its price. TSLA ope...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a notable decline in its price on the NYSE. Various reports indica...\n| **M** | 🟢 | As of February 26, 2026, at 10:10 a.m. ET, Macy's (M) stock on the NYSE showed a price change of +0.07, representing a 0...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:32)\n---"
+  },
+  {
+    "round": 15,
+    "beijing_time": "2026-02-27T17:34:02.052788+08:00",
+    "ny_time": "2026-02-27T04:34:02.052794-05:00",
+    "report": "\n📊 **美股监控报告 #15**\n**北京时间：** 2026-02-27 17:34\n**纽约时间：** 2026-02-27 04:34  |  距休盘: 12小时26分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock is showing a positive change today. The SPY wa...\n| **QQQ** | 🟡 | The New York Stock Exchange (NYSE) is open today, February 26, 2026, operating during its regular hours from 9:30 a.m. t...\n| **BABA** | 🟢 | As of February 26, 2026, during trading hours on the NYSE, Alibaba Group Holding Ltd (BABA) stock has experienced a nota...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.75% on the NYSE. Another source indicated a ch...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline after its earnings report. After being up in...\n| **M** | 🟢 | As of February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.03, representing a +0.14% increase....\n\n**🚨 异动检测：** NVDA 出现异常波动\n\n**⏱️ 下次报告：** 5分钟后 (17:39)\n---"
+  },
+  {
+    "round": 16,
+    "beijing_time": "2026-02-27T17:40:25.052496+08:00",
+    "ny_time": "2026-02-27T04:40:25.052508-05:00",
+    "report": "\n📊 **美股监控报告 #16**\n**北京时间：** 2026-02-27 17:40\n**纽约时间：** 2026-02-27 04:40  |  距休盘: 12小时20分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | As of February 26, 2026, the SPY stock is down 0.8% today....\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) showed a price of $607.52 with a 1.49% change. Earlier in the day, dur...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE opened down by 3.06%. Throughout the day, the s...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a change of -2.75%. The stock price was reported at $405.94. Anothe...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop, falling approximately 4% to 4.7% on the NYSE. ...\n| **M** | 🟢 | On Thursday, February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock was trading at $...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:45)\n---"
+  },
+  {
+    "round": 17,
+    "beijing_time": "2026-02-27T17:46:46.004694+08:00",
+    "ny_time": "2026-02-27T04:46:46.004703-05:00",
+    "report": "\n📊 **美股监控报告 #17**\n**北京时间：** 2026-02-27 17:46\n**纽约时间：** 2026-02-27 04:46  |  距休盘: 12小时14分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock has seen a positive change on the NYSE. The price of SPY ha...\n| **QQQ** | 🔴 | As of February 26, 2026, during market hours, the Invesco QQQ Trust (QQQ) stock has experienced a price change of -1.49%...\n| **BABA** | 🟢 | As of 12:15 PM ET on February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE has seen a price change o...\n| **TSLA** | 🟡 | As of February 26, 2026, at 11:54 AM ET, Tesla (TSLA) stock has seen a price change of -2.75% today. Other reports indic...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline, falling by 4.1% during the regular trading ...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE has shown a positive change. The stock was trading at $20.37 with a 0...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:51)\n---"
+  },
+  {
+    "round": 18,
+    "beijing_time": "2026-02-27T17:53:25.379118+08:00",
+    "ny_time": "2026-02-27T04:53:25.379131-05:00",
+    "report": "\n📊 **美股监控报告 #18**\n**北京时间：** 2026-02-27 17:53\n**纽约时间：** 2026-02-27 04:53  |  距休盘: 12小时7分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock is trading on the NYSE. As of 12:52 PM ET, the cu...\n| **QQQ** | 🔴 | As of February 26, 2026, the Invesco QQQ Trust (QQQ) is showing a slight decrease in price. The QQQ closed at $616.68 on...\n| **BABA** | 🟡 | On February 26, 2026, the BABA stock price on the NYSE has changed by -3.90% as of 12:15 PM ET....\n| **TSLA** | 🟡 | As of February 26, 2026, the New York Stock Exchange (NYSE) core trading session for the day has not yet begun. The NYSE...\n| **NVDA** | 🟢 | On Thursday, February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop, closing the day down more than 4%....\n| **M** | 🟡 | As of Thursday, February 26, 2026, during New York Stock Exchange (NYSE) trading hours, Macy's (M) stock has shown varyi...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (17:58)\n---"
+  },
+  {
+    "round": 19,
+    "beijing_time": "2026-02-27T18:00:06.627259+08:00",
+    "ny_time": "2026-02-27T05:00:06.627272-05:00",
+    "report": "\n📊 **美股监控报告 #19**\n**北京时间：** 2026-02-27 18:00\n**纽约时间：** 2026-02-27 05:00  |  距休盘: 11小时60分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock is up approximately 0.12% on the NYSE....\n| **QQQ** | 🔴 | February 26, 2026, is a regular trading day on the NYSE and NASDAQ. The Invesco QQQ Trust ETF (QQQ) was down 0.04% in pr...\n| **BABA** | 🔴 | On February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -3.90% to a price of $146.34 as of ...\n| **TSLA** | 🔴 | On February 26, 2026, as of 11:45 AM ET, Tesla (TSLA) stock on the NYSE showed a price of $406.19, reflecting a decrease...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock was down 4.19% as of 11:37 AM, wi...\n| **M** | 🟡 | As of Thursday, February 26, 2026, Macy's (M) stock showed a price change of +0.14% to $20.33. The latest close for Macy...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:05)\n---"
+  },
+  {
+    "round": 20,
+    "beijing_time": "2026-02-27T18:06:42.198713+08:00",
+    "ny_time": "2026-02-27T05:06:42.198719-05:00",
+    "report": "\n📊 **美股监控报告 #20**\n**北京时间：** 2026-02-27 18:06\n**纽约时间：** 2026-02-27 05:06  |  距休盘: 11小时54分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | ...\n| **QQQ** | 🟡 | The Invesco QQQ Trust (QQQ) is primarily listed and trades on the NASDAQ stock exchange, not the NYSE....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock opened down by 3.06% on the NYSE....\n| **TSLA** | 🟢 | As of February 26, 2026, Tesla (TSLA) stock is primarily traded on the NASDAQ Stock Market, not the NYSE....\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced fluctuations, with reports indicating a significant drop during th...\n| **M** | 🟢 | As of Thursday, February 26, 2026, Macy's (M) stock on the NYSE has seen a price change of +0.03, representing a +0.14% ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:11)\n---"
+  },
+  {
+    "round": 21,
+    "beijing_time": "2026-02-27T18:13:10.575983+08:00",
+    "ny_time": "2026-02-27T05:13:10.575988-05:00",
+    "report": "\n📊 **美股监控报告 #21**\n**北京时间：** 2026-02-27 18:13\n**纽约时间：** 2026-02-27 05:13  |  距休盘: 11小时47分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the final price change percentage for SPY stock for today is not yet available, as the market i...\n| **QQQ** | 🔴 | On February 26, 2026, the QQQ stock price has seen a change during market hours. The Invesco QQQ Trust (QQQ) opened at $...\n| **BABA** | 🟢 | As of February 26, 2026, at 11:25 AM EST, Alibaba Group Holding Limited (BABA) stock on the NYSE has seen a price increa...\n| **TSLA** | 🔴 | As of February 26, 2026, TSLA stock has experienced a price change. According to data from 12:54 PM ET, Tesla (TSLA) sto...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock sank 4.1% during the regular trad...\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock was trading down 2.5% on the NYSE. Shares of M stock opened at $20.31 on Thursday...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:18)\n---"
+  },
+  {
+    "round": 22,
+    "beijing_time": "2026-02-27T18:19:34.276801+08:00",
+    "ny_time": "2026-02-27T05:19:34.276806-05:00",
+    "report": "\n📊 **美股监控报告 #22**\n**北京时间：** 2026-02-27 18:19\n**纽约时间：** 2026-02-27 05:19  |  距休盘: 11小时41分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, at 1:18 PM EST (during market hours), the real-time price change percentage for SPY stock is no...\n| **QQQ** | 🟡 | As of Thursday, February 26, 2026, during market hours on the NYSE, the Invesco QQQ Trust (QQQ) has seen a price change ...\n| **BABA** | 🟢 | On Thursday, February 26, 2026, Alibaba Group Holding (BABA) stock on the NYSE has seen a price change. As of 11:25 AM E...\n| **TSLA** | 🔴 | On Thursday, February 26, 2026, Tesla (TSLA) stock experienced a price decrease in afternoon trading on the NYSE. As of ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop on the NYSE. Shares of Nvidia fell more than 4%...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a positive change. The stock price was $20.37, reflecting a 0....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:24)\n---"
+  },
+  {
+    "round": 23,
+    "beijing_time": "2026-02-27T18:26:16.408685+08:00",
+    "ny_time": "2026-02-27T05:26:16.408691-05:00",
+    "report": "\n📊 **美股监控报告 #23**\n**北京时间：** 2026-02-27 18:26\n**纽约时间：** 2026-02-27 05:26  |  距休盘: 11小时34分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock on the NYSE has seen a price change of -0.98%. Th...\n| **QQQ** | 🔴 | On February 26, 2026, the price change percentage for QQQ stock shows conflicting reports from various sources....\n| **BABA** | 🟢 | On February 26, 2026, as of 11:25 AM EST, Alibaba Group Holding Limited (BABA) stock on the NYSE showed a price change o...\n| **TSLA** | 🔴 | On February 26, 2026, TSLA stock experienced a drop of nearly 3% in afternoon trading. More precisely, Tesla Inc. (TSLA)...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock sank 4.1% during the day, having ...\n| **M** | 🟡 | As of February 26, 2026, at 10:10 a.m. ET, Macy's (M) stock on the NYSE had a price change of +0.3%, with the stock trad...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:31)\n---"
+  },
+  {
+    "round": 24,
+    "beijing_time": "2026-02-27T18:32:33.514618+08:00",
+    "ny_time": "2026-02-27T05:32:33.514624-05:00",
+    "report": "\n📊 **美股监控报告 #24**\n**北京时间：** 2026-02-27 18:32\n**纽约时间：** 2026-02-27 05:32  |  距休盘: 11小时28分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock has fallen 0.8%. This movement was reportedly inf...\n| **QQQ** | 🔴 | The Invesco QQQ (QQQ) experienced a slight decrease in price on February 26, 2026. The exchange-traded fund (ETF) had a ...\n| **BABA** | 🔴 | As of February 26, 2026, during trading hours on the NYSE, Alibaba (BABA) stock has seen a price change. According to Ba...\n| **TSLA** | 🟢 | As of February 26, 2026, the TSLA stock has increased by 1.96% in the past 24 hours, with its current price at 406.61 US...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline. The stock was down by approximately 4.19% as of 11:37 A...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a price change of +0.03, representing a +0.14% increase....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:37)\n---"
+  },
+  {
+    "round": 25,
+    "beijing_time": "2026-02-27T18:38:55.624486+08:00",
+    "ny_time": "2026-02-27T05:38:55.624494-05:00",
+    "report": "\n📊 **美股监控报告 #25**\n**北京时间：** 2026-02-27 18:38\n**纽约时间：** 2026-02-27 05:38  |  距休盘: 11小时22分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) showed fractional movement on the NYSE. The SPDR S&P 500 ETF (...\n| **QQQ** | 🟢 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock has seen a price increase during the trading session. The stock ...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE showed a decline in its price change percentage...\n| **TSLA** | 🟢 | As of February 26, 2026, the TSLA stock price has increased by 1.96% in the past 24 hours. The current price of TSLA is ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline. Shares fell more than 4%, with some reports indicating ...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed an intraday price change of +0.14%, with the stock trading at ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:43)\n---"
+  },
+  {
+    "round": 26,
+    "beijing_time": "2026-02-27T18:46:12.892536+08:00",
+    "ny_time": "2026-02-27T05:46:12.892543-05:00",
+    "report": "\n📊 **美股监控报告 #26**\n**北京时间：** 2026-02-27 18:46\n**纽约时间：** 2026-02-27 05:46  |  距休盘: 11小时14分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | 获取失败: HTTPSConnectionPool(host='generativelanguage.googl...\n| **QQQ** | 🟡 | 获取失败: HTTPSConnectionPool(host='generativelanguage.googl...\n| **BABA** | 🟡 | On February 26, 2026, Alibaba (BABA) stock on the NYSE showed a price change of -4.08%. The stock was trading at $146.06...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock has seen a decline in price. As of 11:45 AM ET, TSLA was trading at $406.19, re...\n| **NVDA** | 🔴 | On February 26, 2026, NVDA (NVIDIA) stock experienced a decline on the NYSE. NVIDIA shares fell more than 4%. Earlier in...\n| **M** | 🟢 | As of February 26, 2026, the current price of Macy's (M) stock on the NYSE is $20.37, reflecting a positive change of 0....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:51)\n---"
+  },
+  {
+    "round": 27,
+    "beijing_time": "2026-02-27T18:52:25.094640+08:00",
+    "ny_time": "2026-02-27T05:52:25.094648-05:00",
+    "report": "\n📊 **美股监控报告 #27**\n**北京时间：** 2026-02-27 18:52\n**纽约时间：** 2026-02-27 05:52  |  距休盘: 11小时8分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of February 26, 2026, during regular trading hours on the NYSE, the SPDR S&P 500 ETF Trust (SPY) has a price change o...\n| **QQQ** | 🟡 | The Invesco QQQ Trust (QQQ) is currently trading on the NYSE on February 26, 2026. As of the trading session on February...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE opened down by 3.06%. As of 11:25 AM EST, the s...\n| **TSLA** | 🟡 | On Thursday, February 26, 2026, as of 12:54 PM ET, Tesla (TSLA) stock on the NYSE showed a price change of -3.06%, with ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline. The stock was down more than 4%, with some reports indi...\n| **M** | 🟢 | As of 12:11 p.m. ET on Thursday, February 26, 2026, Macy's (M) stock on the NYSE has seen a price change of +0.08, repre...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (18:57)\n---"
+  },
+  {
+    "round": 28,
+    "beijing_time": "2026-02-27T18:58:54.593052+08:00",
+    "ny_time": "2026-02-27T05:58:54.593062-05:00",
+    "report": "\n📊 **美股监控报告 #28**\n**北京时间：** 2026-02-27 18:58\n**纽约时间：** 2026-02-27 05:58  |  距休盘: 11小时2分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF (SPY) showed an intraday increase of approximately 0.12%....\n| **QQQ** | 🔴 | On Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) stock has seen a price change of -1.78% during market hours....\n| **BABA** | 🟢 | On February 26, 2026, the Alibaba Group (BABA) stock on the NYSE experienced a price change of -3.5% as of 1:53 p.m. ET....\n| **TSLA** | 🟢 | As of February 26, 2026, the TSLA stock price has increased by 1.96% in the past 24 hours. The current price of TSLA is ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop. The stock's price change was -4.44%....\n| **M** | 🟢 | As of February 26, 2026, at 12:11 p.m. ET, Macy's (M) stock has seen a daily price change of +0.08, which represents a 0...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:03)\n---"
+  },
+  {
+    "round": 29,
+    "beijing_time": "2026-02-27T19:05:36.884903+08:00",
+    "ny_time": "2026-02-27T06:05:36.884909-05:00",
+    "report": "\n📊 **美股监控报告 #29**\n**北京时间：** 2026-02-27 19:05\n**纽约时间：** 2026-02-27 06:05  |  距休盘: 10小时55分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of Thursday, February 26, 2026, at 2:04 PM EST, the SPDR S&P 500 ETF (SPY) stock on the NYSE has seen a price increas...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust ETF (QQQ), which tracks the performance of the Nasdaq 100 Index, was down 0....\n| **BABA** | 🟢 | As of February 26, 2026, at 11:25 AM EST, Alibaba Group Holding Limited (BABA) stock on the NYSE showed a price change o...\n| **TSLA** | 🔴 | As of February 26, 2026, at 1:11 p.m. ET, Tesla (TSLA) stock experienced a price change of -3.0%. Shares dropped nearly ...\n| **NVDA** | 🟢 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE, with its price falling by 4.44%. The stock ...\n| **M** | 🟢 | On Thursday, February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.4%. As of 12:11 p.m. ET, the st...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:10)\n---"
+  },
+  {
+    "round": 30,
+    "beijing_time": "2026-02-27T19:12:14.096600+08:00",
+    "ny_time": "2026-02-27T06:12:14.096608-05:00",
+    "report": "\n📊 **美股监控报告 #30**\n**北京时间：** 2026-02-27 19:12\n**纽约时间：** 2026-02-27 06:12  |  距休盘: 10小时48分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock's price experienced a change of -1.12%, with a real-time price of $685.41 as of 1:17...\n| **QQQ** | 🟢 | As of the current trading day, February 26, 2026, the QQQ stock price is up 1.42% relative to its opening price. The cur...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a decline. The stock opened down by...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline. Shares dropped nearly 3% during afternoon trading. More ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline in its price on the NYSE. NVIDIA shares fell by more tha...\n| **M** | 🔴 | As of February 26, 2026, Macy's Inc. (NYSE: M) stock is trading down 2.5%. The stock opened at $20.31 on Thursday....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:17)\n---"
+  },
+  {
+    "round": 31,
+    "beijing_time": "2026-02-27T19:18:29.250665+08:00",
+    "ny_time": "2026-02-27T06:18:29.250671-05:00",
+    "report": "\n📊 **美股监控报告 #31**\n**北京时间：** 2026-02-27 19:18\n**纽约时间：** 2026-02-27 06:18  |  距休盘: 10小时42分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the SPY stock price has increased by 0.84% relative to its opening stock price today. The curre...\n| **QQQ** | 🟢 | As of February 26, 2026, the QQQ stock has seen a positive change today. The Invesco QQQ (QQQ) opened at $611.11 and is ...\n| **BABA** | 🟢 | As of the current trading day, February 26, 2026, the BABA (Alibaba Group Holding Limited) stock on the NYSE has seen a ...\n| **TSLA** | 🔴 | On Thursday, February 26, 2026, Tesla (TSLA) stock experienced a decrease of 1.97% on the NYSE. The stock traded at $409...\n| **NVDA** | 🟡 | On February 26, 2026, NVIDIA (NVDA) stock experienced a price change of -4.44% on the NYSE. Reports indicated that NVIDI...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE saw a price change of +0.14%....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:23)\n---"
+  },
+  {
+    "round": 32,
+    "beijing_time": "2026-02-27T19:25:05.701474+08:00",
+    "ny_time": "2026-02-27T06:25:05.701485-05:00",
+    "report": "\n📊 **美股监控报告 #32**\n**北京时间：** 2026-02-27 19:25\n**纽约时间：** 2026-02-27 06:25  |  距休盘: 10小时35分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the SPDR S&P 500 ETF (SPY) is up approximately 0.12% today. Earlier in the trading day, the SPY...\n| **QQQ** | 🟢 | The Invesco QQQ Trust (QQQ) is traded on the NASDAQ, not the NYSE. As of February 26, 2026, the QQQ stock is reported to...\n| **BABA** | 🟡 | On February 26, 2026, Alibaba (BABA) stock on the NYSE had a price change of -4.15%....\n| **TSLA** | 🔴 | As of Thursday, February 26, 2026, Tesla (TSLA) stock has decreased by 1.97% since the previous trading session, trading...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline of 4.44%. Other sources reported the stock fell by more ...\n| **M** | 🟡 | ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:30)\n---"
+  },
+  {
+    "round": 33,
+    "beijing_time": "2026-02-27T19:31:32.436464+08:00",
+    "ny_time": "2026-02-27T06:31:32.436471-05:00",
+    "report": "\n📊 **美股监控报告 #33**\n**北京时间：** 2026-02-27 19:31\n**纽约时间：** 2026-02-27 06:31  |  距休盘: 10小时29分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, at 2:30 PM UTC (2:30 PM in New York, NY, US, during market hours), the SPDR S&P 500 ETF (SPY) i...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) has shown varying price changes throughout the day accord...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a daily price change of -0.92%....\n| **TSLA** | 🔴 | As of 2:05 PM ET on February 26, 2026, Tesla (TSLA) stock on the NYSE has seen a price change of -2.26%. The stock's pri...\n| **NVDA** | 🔴 | NVIDIA (NVDA) stock saw a decline on February 26, 2026, despite reporting strong fourth-quarter fiscal 2026 earnings and...\n| **M** | 🟡 | I am unable to provide the current price change percentage for M stock on the NYSE for February 26, 2026. While February...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:36)\n---"
+  },
+  {
+    "round": 34,
+    "beijing_time": "2026-02-27T19:37:42.901135+08:00",
+    "ny_time": "2026-02-27T06:37:42.901144-05:00",
+    "report": "\n📊 **美股监控报告 #34**\n**北京时间：** 2026-02-27 19:37\n**纽约时间：** 2026-02-27 06:37  |  距休盘: 10小时23分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock experienced a price change of -0.88% on the NYSE. Earlier i...\n| **QQQ** | 🔴 | On Thursday, February 26, 2026, the QQQ stock has experienced a decline. The Invesco QQQ Trust, Series 1 ETF (QQQ) was d...\n| **BABA** | 🟢 | On February 26, 2026, BABA (Alibaba Group Holding Ltd) stock experienced a price decrease on the NYSE. The stock's price...\n| **TSLA** | 🔴 | As of February 26, 2026, at 11:45 AM ET, Tesla (TSLA) stock has experienced a price change of -2.7%. This represents a d...\n| **NVDA** | 🔴 | On Thursday, February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. Shares of Nvidia fell by more tha...\n| **M** | 🟡 | I am sorry, but I cannot provide the real-time stock price change percentage for Macy's (M) stock on February 26, 2026, ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:42)\n---"
+  },
+  {
+    "round": 35,
+    "beijing_time": "2026-02-27T19:44:07.084322+08:00",
+    "ny_time": "2026-02-27T06:44:07.084329-05:00",
+    "report": "\n📊 **美股监控报告 #35**\n**北京时间：** 2026-02-27 19:44\n**纽约时间：** 2026-02-27 06:44  |  距休盘: 10小时16分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | I cannot provide you with the real-time SPY stock price change percentage for February 26, 2026, as that date is in the ...\n| **QQQ** | 🟢 | On Thursday, February 26, 2026, the Invesco QQQ Trust ETF (QQQ) experienced varied movements throughout the trading day....\n| **BABA** | 🟢 | As of February 26, 2026, during trading hours on the NYSE, BABA stock has seen fluctuations in its price change percenta...\n| **TSLA** | 🟢 | I am unable to provide the current price change percentage for TSLA stock on February 26, 2026. The available informatio...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a price change of -4.44% on the NYSE....\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock on the NYSE is down 0.92% relative to its opening stock price. The current share ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:49)\n---"
+  },
+  {
+    "round": 36,
+    "beijing_time": "2026-02-27T19:50:25.307792+08:00",
+    "ny_time": "2026-02-27T06:50:25.307802-05:00",
+    "report": "\n📊 **美股监控报告 #36**\n**北京时间：** 2026-02-27 19:50\n**纽约时间：** 2026-02-27 06:50  |  距休盘: 10小时10分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of 2:49 PM Eastern Time on Thursday, February 26, 2026, the New York Stock Exchange (NYSE) is open and trading is ong...\n| **QQQ** | 🟢 | As of February 26, 2026, during pre-market trading hours, the Invesco QQQ Trust ETF (QQQ) was down 0.04%. Shares of QQQ ...\n| **BABA** | 🟢 | As of February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE has experienced a price change. The stock op...\n| **TSLA** | 🔴 | On February 26, 2026, TSLA stock experienced a drop of nearly 3% in afternoon trading. The shares opened at $417.26 on T...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a notable decline on the NYSE. The stock was down more than 4% thr...\n| **M** | 🔴 | As of February 26, 2026, Macy's (M) stock on the NYSE is down by 0.92% relative to its opening price today. The current ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (19:55)\n---"
+  },
+  {
+    "round": 37,
+    "beijing_time": "2026-02-27T19:56:45.897553+08:00",
+    "ny_time": "2026-02-27T06:56:45.897565-05:00",
+    "report": "\n📊 **美股监控报告 #37**\n**北京时间：** 2026-02-27 19:56\n**纽约时间：** 2026-02-27 06:56  |  距休盘: 10小时4分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF (SPY) stock showed a fractional increase. As of an update on this day, the SP...\n| **QQQ** | 🔴 | On February 26, 2026, the QQQ stock has experienced a price decrease. The Nasdaq 100 Index, which QQQ tracks, was down b...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock experienced a decline on the NYSE. The stock opened down by...\n| **TSLA** | 🔴 | On February 26, 2026, as of 02:38 PM ET, Tesla (TSLA) stock showed a price of $408.43 USD, reflecting a change of -2.15%...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline on the NYSE. NVIDIA shares fell by 4.44%. Ot...\n| **M** | 🟡 | On February 26, 2026, Macy's (M) stock experienced a price change of -0.92% relative to its opening stock price for the ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:01)\n---"
+  },
+  {
+    "round": 38,
+    "beijing_time": "2026-02-27T20:03:24.208216+08:00",
+    "ny_time": "2026-02-27T07:03:24.208230-05:00",
+    "report": "\n📊 **美股监控报告 #38**\n**北京时间：** 2026-02-27 20:03\n**纽约时间：** 2026-02-27 07:03  |  距休盘: 9小时57分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock has seen a change of -0.88%. Other reports indicate a de...\n| **QQQ** | 🟡 | As of Thursday, February 26, 2026, during NYSE trading hours, the Invesco QQQ Trust, Series 1 (QQQ) stock has seen a pri...\n| **BABA** | 🟢 | On February 26, 2026, the Alibaba Group Holding Ltd (BABA) stock on the NYSE had a price change of -0.92%. The closing p...\n| **TSLA** | 🟢 | As of February 26, 2026, Tesla (TSLA) stock has seen a price increase of 1.96% over the past 24 hours, with the current ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline of 4.44% on the NYSE....\n| **M** | 🔴 | On Thursday, February 26, 2026, Macy's (M) stock on the NYSE is down 0.92% relative to its opening price. The current sh...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:08)\n---"
+  },
+  {
+    "round": 39,
+    "beijing_time": "2026-02-27T20:09:36.211305+08:00",
+    "ny_time": "2026-02-27T07:09:36.211311-05:00",
+    "report": "\n📊 **美股监控报告 #39**\n**北京时间：** 2026-02-27 20:09\n**纽约时间：** 2026-02-27 07:09  |  距休盘: 9小时51分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | The SPDR S&P 500 ETF Trust (SPY) stock on the NYSE closed up +0.81% on Wednesday, February 26, 2026. The NYSE's core tra...\n| **QQQ** | 🔴 | The Invesco QQQ Trust (QQQ) experienced a slight decrease in its stock price on February 26, 2026, on the NYSE. The curr...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock experienced a decline. The stock opened down by 3.06%. Thro...\n| **TSLA** | 🔴 | On Thursday, February 26, 2026, Tesla (TSLA) stock experienced a decline in its price. As of 2:09 p.m. ET, the stock was...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline. Shares fell more than 4 percent, with some reports indi...\n| **M** | 🔴 | As of February 26, 2026, during the NYSE's core trading session, Macy's (M) stock is down by 0.92% or $0.20 relative to ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:14)\n---"
+  },
+  {
+    "round": 40,
+    "beijing_time": "2026-02-27T20:15:59.815405+08:00",
+    "ny_time": "2026-02-27T07:15:59.815411-05:00",
+    "report": "\n📊 **美股监控报告 #40**\n**北京时间：** 2026-02-27 20:15\n**纽约时间：** 2026-02-27 07:15  |  距休盘: 9小时45分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change of -0.88%. The stock opened at $...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, the QQQ stock (Nasdaq 100 Index) is down 1.40% today....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a daily change of -0.92% at market ...\n| **TSLA** | 🟡 | As of February 26, 2026, Tesla (TSLA) shares rose 2%....\n| **NVDA** | 🔴 | NVIDIA (NVDA) stock experienced a significant drop on February 26, 2026. The stock was down by 4.44% today. NVIDIA share...\n| **M** | 🟢 | As of Thursday, February 26, 2026, at 3:16 PM ET, Macy's (M) stock on the NYSE has a current price change of +0.14%. The...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:20)\n---"
+  },
+  {
+    "round": 41,
+    "beijing_time": "2026-02-27T20:22:19.632099+08:00",
+    "ny_time": "2026-02-27T07:22:19.632107-05:00",
+    "report": "\n📊 **美股监控报告 #41**\n**北京时间：** 2026-02-27 20:22\n**纽约时间：** 2026-02-27 07:22  |  距休盘: 9小时38分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | February 26, 2026, is a regular trading day for the NYSE, with standard hours from 9:30 a.m. to 4:00 p.m. Eastern Time. ...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock showed an intraday price change of -1.54% with a current price o...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92% by the clo...\n| **TSLA** | 🟢 | On February 26, 2026, the TSLA stock price increased by 1.96% in the past 24 hours. As of 3:22 PM ET, the stock was trad...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline on the NYSE. Shares of NVDA fell by 4.44%. O...\n| **M** | 🟢 | As of February 26, 2026, Macy's (M) stock on the NYSE has shown varying price changes throughout the day....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:27)\n---"
+  },
+  {
+    "round": 42,
+    "beijing_time": "2026-02-27T20:28:46.545689+08:00",
+    "ny_time": "2026-02-27T07:28:46.545694-05:00",
+    "report": "\n📊 **美股监控报告 #42**\n**北京时间：** 2026-02-27 20:28\n**纽约时间：** 2026-02-27 07:28  |  距休盘: 9小时32分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of February 26, 2026, with the NYSE market currently open, the SPDR S&P 500 ETF Trust (SPY) stock has seen a price ch...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change. The stock opened at $616.34 on Thursday. B...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock experienced a price change of -0.92% on the NYSE, closing a...\n| **TSLA** | 🟢 | On February 26, 2026, the TSLA stock experienced fluctuations in its price....\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a notable decline on the NYSE. The stock's price change was approx...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a daily price change. As of 12:11 p.m. ET, the stock was up by...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:33)\n---"
+  },
+  {
+    "round": 43,
+    "beijing_time": "2026-02-27T20:35:07.480519+08:00",
+    "ny_time": "2026-02-27T07:35:07.480531-05:00",
+    "report": "\n📊 **美股监控报告 #43**\n**北京时间：** 2026-02-27 20:35\n**纽约时间：** 2026-02-27 07:35  |  距休盘: 9小时25分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPDR S&P 500 ETF (SPY) experienced a slight decrease in its price. The SPY stock was down by 0...\n| **QQQ** | 🔴 | As of February 26, 2026, the Invesco QQQ Trust, Series 1 (QQQ) stock has seen fluctuations during the trading day on the...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock experienced a price change of -0.92% by market close. The s...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86% on the NYSE. The closing price for TSLA on...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock's price change percentage for the...\n| **M** | 🟡 | As of Thursday, February 26, 2026, at 3:35 PM ET, Macy's (M) stock is trading at $20.19....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:40)\n---"
+  },
+  {
+    "round": 44,
+    "beijing_time": "2026-02-27T20:41:29.788392+08:00",
+    "ny_time": "2026-02-27T07:41:29.788401-05:00",
+    "report": "\n📊 **美股监控报告 #44**\n**北京时间：** 2026-02-27 20:41\n**纽约时间：** 2026-02-27 07:41  |  距休盘: 9小时19分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change of -0.88%....\n| **QQQ** | 🔴 | As of 3:40 PM ET on February 26, 2026, the Invesco QQQ Trust (QQQ) stock has seen a price change of -1.21% today, tradin...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92% for the da...\n| **TSLA** | 🟢 | On February 26, 2026, TSLA stock experienced varying price changes according to different sources. TradingView reported ...\n| **NVDA** | 🔴 | NVIDIA (NVDA) stock experienced a decline on February 26, 2026, despite reporting strong fourth-quarter earnings and rev...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a positive change. The stock price was reported as $20.33, wit...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:46)\n---"
+  },
+  {
+    "round": 45,
+    "beijing_time": "2026-02-27T20:47:52.737556+08:00",
+    "ny_time": "2026-02-27T07:47:52.737564-05:00",
+    "report": "\n📊 **美股监控报告 #45**\n**北京时间：** 2026-02-27 20:47\n**纽约时间：** 2026-02-27 07:47  |  距休盘: 9小时13分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a change in its stock price. Investing.com ...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) stock has experienced a price change of -1.40% today. The...\n| **BABA** | 🔴 | Alibaba (NYSE: BABA) stock experienced a decline on February 26, 2026. It opened down by 3.06%. Throughout the day, the ...\n| **TSLA** | 🟡 | On February 26, 2026, the TSLA stock on the NYSE experienced a price change of -2.86%. The stock closed at $405.45, with...\n| **NVDA** | 🔴 | On February 26, 2026, NVDA (NVIDIA) stock experienced a decline. The stock's price change was a decrease of 4.44%. Sever...\n| **M** | 🔴 | On Thursday, February 26, 2026, Macy's (M) stock experienced a price change of -0.92% relative to its opening stock pric...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:52)\n---"
+  },
+  {
+    "round": 46,
+    "beijing_time": "2026-02-27T20:54:09.847619+08:00",
+    "ny_time": "2026-02-27T07:54:09.847628-05:00",
+    "report": "\n📊 **美股监控报告 #46**\n**北京时间：** 2026-02-27 20:54\n**纽约时间：** 2026-02-27 07:54  |  距休盘: 9小时6分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of Thursday, February 26, 2026, at 3:53 PM in New York, the SPDR S&P 500 ETF Trust (SPY) stock has seen a change in p...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock experienced a price change of -1.73% as of its closing price of ...\n| **BABA** | 🟢 | As of February 26, 2026, at 11:25 AM EST, Alibaba Group Holding Ltd. (BABA) stock on the NYSE has seen a price change of...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86%. The stock opened at $414.86, reached a hi...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a price decrease of 4.44%. This decline contributed to a broader m...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock price was $20.33, an incre...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (20:59)\n---"
+  },
+  {
+    "round": 47,
+    "beijing_time": "2026-02-27T21:00:27.502471+08:00",
+    "ny_time": "2026-02-27T08:00:27.502480-05:00",
+    "report": "\n📊 **美股监控报告 #47**\n**北京时间：** 2026-02-27 21:00\n**纽约时间：** 2026-02-27 08:00  |  距休盘: 8小时60分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change of -0.58% by the marke...\n| **QQQ** | 🟡 | On Thursday, February 26, 2026, the QQQ stock experienced a price change of -1.73%. The Invesco QQQ Trust (QQQ), which t...\n| **BABA** | 🟡 | The New York Stock Exchange (NYSE) is closed on Thursday, February 26, 2026, in observance of Thanksgiving Day. Therefor...\n| **TSLA** | 🟢 | On February 26, 2026, the price change percentage for TSLA stock on the NYSE showed variations across different reportin...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline in its share price. Various reports indicate a drop of m...\n| **M** | 🟢 | As of Thursday, February 26, 2026, Macy's (M) stock on the NYSE showed a price change of +0.14%. The stock price was $20...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:05)\n---"
+  },
+  {
+    "round": 48,
+    "beijing_time": "2026-02-27T21:06:43.486783+08:00",
+    "ny_time": "2026-02-27T08:06:43.486790-05:00",
+    "report": "\n📊 **美股监控报告 #48**\n**北京时间：** 2026-02-27 21:06\n**纽约时间：** 2026-02-27 08:06  |  距休盘: 8小时54分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock experienced a decline in its price. It was down 0.8% accord...\n| **QQQ** | 🟡 | On February 26, 2026, the QQQ stock recorded a price change of -1.40%....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a price change of -0.92%. The s...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a change in price on the NYSE. The New York Stock Exchange's core t...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop. The stock sank 5.3 percent and was down more t...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a daily price increase of 0.4%. The stock was up by $0.08...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:11)\n---"
+  },
+  {
+    "round": 49,
+    "beijing_time": "2026-02-27T21:13:08.790819+08:00",
+    "ny_time": "2026-02-27T08:13:08.790830-05:00",
+    "report": "\n📊 **美股监控报告 #49**\n**北京时间：** 2026-02-27 21:13\n**纽约时间：** 2026-02-27 08:13  |  距休盘: 8小时47分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock experienced a price change of -0.88%....\n| **QQQ** | 🟡 | On February 26, 2026, the QQQ stock experienced a price change of -1.73%....\n| **BABA** | 🟢 | As of February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92% from it...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline. Shares dropped by approximately 2.86%. Other reports ind...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop. Various sources reported the stock down by mor...\n| **M** | 🟢 | As of February 26, 2026, at 2:11 p.m. ET, Macy's (M) stock on the NYSE had a daily price change of +0.10, representing a...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:18)\n---"
+  },
+  {
+    "round": 50,
+    "beijing_time": "2026-02-27T21:19:30.848819+08:00",
+    "ny_time": "2026-02-27T08:19:30.848829-05:00",
+    "report": "\n📊 **美股监控报告 #50**\n**北京时间：** 2026-02-27 21:19\n**纽约时间：** 2026-02-27 08:19  |  距休盘: 8小时41分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | As of February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock has seen a decrease in its price. According to one sourc...\n| **QQQ** | 🔴 | As of Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a slight price change. In pre-market trading,...\n| **BABA** | 🟡 | As of February 26, 2026, the Alibaba (BABA) stock on the NYSE has experienced a price change of -0.92% today. The stock ...\n| **TSLA** | 🟡 | On February 26, 2026, the TSLA stock experienced a change in price. According to Investing.com, the stock's change perce...\n| **NVDA** | 🟢 | I cannot provide the current price change percentage for NVDA stock on February 26, 2026, as that date is in the future....\n| **M** | 🟡 | As of the close of the regular trading session on February 26, 2026, Macy's (M) stock on the NYSE showed a price of $20....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:24)\n---"
+  },
+  {
+    "round": 51,
+    "beijing_time": "2026-02-27T21:25:48.374216+08:00",
+    "ny_time": "2026-02-27T08:25:48.374224-05:00",
+    "report": "\n📊 **美股监控报告 #51**\n**北京时间：** 2026-02-27 21:25\n**纽约时间：** 2026-02-27 08:25  |  距休盘: 8小时35分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF (SPY) showed a positive price change, being up approximately 0.12%. The S&P 5...\n| **QQQ** | 🟢 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a decline. The Nasdaq 100 Index, which QQQ tracks, was dow...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92% by market ...\n| **TSLA** | 🟢 | On February 26, 2026, the TSLA stock experienced a fluctuating price change. While some reports indicated a slight incre...\n| **NVDA** | 🔴 | On Thursday, February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock's price change was -4.4...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE closed at $20.33, reflecting a price increase of $0.03, which is a ch...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:30)\n---"
+  },
+  {
+    "round": 52,
+    "beijing_time": "2026-02-27T21:32:11.798106+08:00",
+    "ny_time": "2026-02-27T08:32:11.798113-05:00",
+    "report": "\n📊 **美股监控报告 #52**\n**北京时间：** 2026-02-27 21:32\n**纽约时间：** 2026-02-27 08:32  |  距休盘: 8小时28分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY stock experienced a decrease in price. It was down 0.8%, according to price data from Poly...\n| **QQQ** | 🟡 | The Invesco QQQ Trust (QQQ) experienced a change in its price today, February 26, 2026. According to available data, QQQ...\n| **BABA** | 🟡 | On February 26, 2026, Alibaba (BABA) stock on the NYSE closed at $146.99, experiencing a price change of -0.92% for the ...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a change in price. Reports indicate a decrease in its stock price t...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a price decrease of 4.44% on the NYSE. Reports indicated that NVID...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a positive price change. The stock was up by 0.14%. The p...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:37)\n---"
+  },
+  {
+    "round": 53,
+    "beijing_time": "2026-02-27T21:38:31.262441+08:00",
+    "ny_time": "2026-02-27T08:38:31.262450-05:00",
+    "report": "\n📊 **美股监控报告 #53**\n**北京时间：** 2026-02-27 21:38\n**纽约时间：** 2026-02-27 08:38  |  距休盘: 8小时22分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock has shown conflicting price movements according to availabl...\n| **QQQ** | 🔴 | As of February 26, 2026, the Invesco QQQ Trust (QQQ) has shown a price change. Google Finance reports QQQ as being down ...\n| **BABA** | 🔴 | On February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -0.92% at market close. The stock o...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock on the NYSE experienced a price change of -2.86%. The stock closed at $405.45, ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a change of -4.44% on the NYSE. The stock traded at $186.88 at clo...\n| **M** | 🟡 | On February 26, 2026, as of 2:11 p.m. ET, Macy's (M) stock on the NYSE showed a price change of 0.5%, increasing by $0.1...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:43)\n---"
+  },
+  {
+    "round": 54,
+    "beijing_time": "2026-02-27T21:45:07.042802+08:00",
+    "ny_time": "2026-02-27T08:45:07.042812-05:00",
+    "report": "\n📊 **美股监控报告 #54**\n**北京时间：** 2026-02-27 21:45\n**纽约时间：** 2026-02-27 08:45  |  距休盘: 8小时15分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | As of February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change today. It was down by approxi...\n| **QQQ** | 🔴 | As of February 26, 2026, the Invesco QQQ Trust (QQQ) ETF's price has fallen by approximately 1.37% in the past 24 hours,...\n| **BABA** | 🔴 | As of February 26, 2026, the price of Alibaba (BABA) stock on the NYSE has seen a decline. The stock opened down by 3.06...\n| **TSLA** | 🟡 | On February 26, 2026, the TSLA stock experienced a price change of -2.86% on the NYSE. Another source indicates a change...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop, with its price falling between 4.44% and 5.40%...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a positive price change of 0.5%. The stock price increase...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:50)\n---"
+  },
+  {
+    "round": 55,
+    "beijing_time": "2026-02-27T21:51:39.783974+08:00",
+    "ny_time": "2026-02-27T08:51:39.783982-05:00",
+    "report": "\n📊 **美股监控报告 #55**\n**北京时间：** 2026-02-27 21:51\n**纽约时间：** 2026-02-27 08:51  |  距休盘: 8小时9分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | The SPDR S&P 500 ETF Trust (SPY) experienced a price change of **-0.88%** on February 26, 2026, closing at $687.02. Othe...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock experienced a price change of -1.73%....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -3.47% as of 11:2...\n| **TSLA** | 🔴 | On February 26, 2026, the TSLA stock experienced a decline in its price....\n| **NVDA** | 🔴 | On February 26, 2026, NVDA stock experienced a decline in its price. Reports indicate the stock was down by varying perc...\n| **M** | 🔴 | On Thursday, February 26, 2026, Macy's Inc. (M) stock on the NYSE experienced a decline. Shares of Macy's (M) opened at ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (21:56)\n---"
+  },
+  {
+    "round": 56,
+    "beijing_time": "2026-02-27T21:58:00.848879+08:00",
+    "ny_time": "2026-02-27T08:58:00.848888-05:00",
+    "report": "\n📊 **美股监控报告 #56**\n**北京时间：** 2026-02-27 21:58\n**纽约时间：** 2026-02-27 08:58  |  距休盘: 8小时2分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a price change of -0.88% on the NYSE....\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change of -1.40%. This reflects the performance of...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a price change of -3.47% as of ...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86%. The stock traded at $405.45. Another sour...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. Trading Economics reported that Nvidia Corp...\n| **M** | 🟢 | On February 26, 2026, the NYSE was open for regular trading hours, from 9:30 a.m. to 4:00 p.m. ET....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:03)\n---"
+  },
+  {
+    "round": 57,
+    "beijing_time": "2026-02-27T22:04:25.050225+08:00",
+    "ny_time": "2026-02-27T09:04:25.050235-05:00",
+    "report": "\n📊 **美股监控报告 #57**\n**北京时间：** 2026-02-27 22:04\n**纽约时间：** 2026-02-27 09:04  |  距休盘: 7小时56分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock has fallen by 0.8%....\n| **QQQ** | 🔴 | On Thursday, February 26, 2026, the QQQ stock experienced a price change of -1.73%....\n| **BABA** | 🟡 | On Thursday, February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -0.92%. The stock closed ...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline in its share price. The stock's price change percentage f...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. Trading Economics reported a decrease of 5....\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock experienced a positive change. According to MarketBeat, the stock price increased...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:09)\n---"
+  },
+  {
+    "round": 58,
+    "beijing_time": "2026-02-27T22:10:49.515984+08:00",
+    "ny_time": "2026-02-27T09:10:49.515992-05:00",
+    "report": "\n📊 **美股监控报告 #58**\n**北京时间：** 2026-02-27 22:10\n**纽约时间：** 2026-02-27 09:10  |  距休盘: 7小时50分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPY stock experienced a price change on the NYSE. The reported percentage changes vary slightl...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change of -1.73%....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock experienced fluctuations on the NYSE. The stock opened down...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock on the NYSE experienced a price change of -2.86%. The closing price for TSLA on...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock on the NYSE experienced a price change of -4.44%. The stock closed at $186.88,...\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a price change of -0.92% relative to its opening stock pr...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:15)\n---"
+  },
+  {
+    "round": 59,
+    "beijing_time": "2026-02-27T22:17:09.458286+08:00",
+    "ny_time": "2026-02-27T09:17:09.458296-05:00",
+    "report": "\n📊 **美股监控报告 #59**\n**北京时间：** 2026-02-27 22:17\n**纽约时间：** 2026-02-27 09:17  |  距休盘: 7小时43分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | The SPDR S&P 500 ETF Trust (SPY) experienced a price change of -0.88% on the NYSE today, February 26, 2026, at market cl...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change. The QQQ was down by 1.73% at the close of ...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92%. The stock...\n| **TSLA** | 🟢 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.11% as of 04:00 PM ET. After-market trading in...\n| **NVDA** | 🔴 | On Thursday, February 26, 2026, NVDA stock experienced a decline in its price on the NYSE....\n| **M** | 🟢 | As of the close of trading on February 26, 2026, Macy's (M) stock on the NYSE showed a price change. The stock traded at...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:22)\n---"
+  },
+  {
+    "round": 60,
+    "beijing_time": "2026-02-27T22:23:23.861042+08:00",
+    "ny_time": "2026-02-27T09:23:23.861053-05:00",
+    "report": "\n📊 **美股监控报告 #60**\n**北京时间：** 2026-02-27 22:23\n**纽约时间：** 2026-02-27 09:23  |  距休盘: 7小时37分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a price change on the NYSE....\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change of -1.73%. Earlier in the day, Thursday's p...\n| **BABA** | 🔴 | On February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -0.92%. The stock opened down by 3....\n| **TSLA** | 🟡 | The current date is February 26, 2026. Therefore, I will search for the stock price change for today....\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The stock closed down 5.46%, with other rep...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a daily price change of +0.10, representing a 0.5% increase as...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:28)\n---"
+  },
+  {
+    "round": 61,
+    "beijing_time": "2026-02-27T22:30:06.950601+08:00",
+    "ny_time": "2026-02-27T09:30:06.950613-05:00",
+    "report": "\n📊 **美股监控报告 #61**\n**北京时间：** 2026-02-27 22:30\n**纽约时间：** 2026-02-27 09:30  |  距休盘: 7小时30分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock experienced a price change of approximately -0.60% as of 3:13 PM EST. Another report...\n| **QQQ** | 🟢 | As of Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ), which trades on the NASDAQ stock exchange, shows a posit...\n| **BABA** | 🟡 | On February 26, 2026, the BABA stock price on the NYSE experienced a change of -0.92%. The stock opened at $148.36, reac...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86% on the NYSE. The stock closed the day at $...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. The price change percentage varied slightly...\n| **M** | 🟢 | As of the close of markets on Thursday, February 26, 2026, Macy's (M) stock traded at $20.31 on the NYSE....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:35)\n---"
+  },
+  {
+    "round": 62,
+    "beijing_time": "2026-02-27T22:36:31.868686+08:00",
+    "ny_time": "2026-02-27T09:36:31.868700-05:00",
+    "report": "\n📊 **美股监控报告 #62**\n**北京时间：** 2026-02-27 22:36\n**纽约时间：** 2026-02-27 09:36  |  距休盘: 7小时24分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change of -0.58%. The stock closed at $...\n| **QQQ** | 🟢 | On February 26, 2026, the QQQ (Invesco QQQ Trust) stock experienced a positive change. The opening price for QQQ on this...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group (NYSE: BABA) stock experienced a price change. As of the close of the market, BABA's...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a change of -2.11%, closing at $408.58. After-market trading showed...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decrease in its price. It traded at $185.00, marking a decline o...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed varying price changes throughout the day according to differen...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:41)\n---"
+  },
+  {
+    "round": 63,
+    "beijing_time": "2026-02-27T22:43:08.847523+08:00",
+    "ny_time": "2026-02-27T09:43:08.847534-05:00",
+    "report": "\n📊 **美股监控报告 #63**\n**北京时间：** 2026-02-27 22:43\n**纽约时间：** 2026-02-27 09:43  |  距休盘: 7小时17分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On Thursday, February 26, 2026, the SPY stock experienced a price change of -0.58% at market close. The real-time price ...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock experienced a price change of -1.73%. The QQQ opened at $615.59,...\n| **BABA** | 🟡 | As of the close of trading on February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -0.54%....\n| **TSLA** | 🟢 | On February 26, 2026, the TSLA stock on the NYSE experienced a price change. Investing.com reports a daily change of -2....\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decrease of 4.44%. Another source indicates a decrease of 5.40% ...\n| **M** | 🟢 | Macy's (M) stock on the NYSE experienced a positive change of approximately +0.15% on Thursday, February 26, 2026. The s...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:48)\n---"
+  },
+  {
+    "round": 64,
+    "beijing_time": "2026-02-27T22:49:29.035585+08:00",
+    "ny_time": "2026-02-27T09:49:29.035590-05:00",
+    "report": "\n📊 **美股监控报告 #64**\n**北京时间：** 2026-02-27 22:49\n**纽约时间：** 2026-02-27 09:49  |  距休盘: 7小时11分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock experienced a price change of -0.60% as of 3:13 PM EST. Ano...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust Series 1 (QQQ) stock experienced a price change of -1.73%. The stock closed ...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -2.9% as of 3:58 ...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock on the NYSE experienced a price decrease. TSLA traded at $408.27, reflecting a ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline. It traded at $185.00, marking a decrease of...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a price change of +0.14%, with the stock trading at $20.3...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (22:54)\n---"
+  },
+  {
+    "round": 65,
+    "beijing_time": "2026-02-27T22:55:48.636315+08:00",
+    "ny_time": "2026-02-27T09:55:48.636327-05:00",
+    "report": "\n📊 **美股监控报告 #65**\n**北京时间：** 2026-02-27 22:55\n**纽约时间：** 2026-02-27 09:55  |  距休盘: 7小时5分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock price changed by -0.60% as of 3:13 PM EST. Another report for the same day indicated...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock experienced a price decrease of 1.73% on the NYSE....\n| **BABA** | 🔴 | On February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price decrease of 3.47%....\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline in its price....\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline on the NYSE. The price change percentage for...\n| **M** | 🟡 | Macy's (M) stock on the NYSE experienced a -2.54% change on February 25, 2026, closing at $20.30. On February 24, 2026, ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:00)\n---"
+  },
+  {
+    "round": 66,
+    "beijing_time": "2026-02-27T23:02:10.347168+08:00",
+    "ny_time": "2026-02-27T10:02:10.347176-05:00",
+    "report": "\n📊 **美股监控报告 #66**\n**北京时间：** 2026-02-27 23:02\n**纽约时间：** 2026-02-27 10:02  |  距休盘: 6小时58分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock experienced a change in price....\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust Series 1 (QQQ) stock experienced a price change of -1.73%. The stock closed ...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a decline throughout the tradin...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86% on the NYSE....\n| **NVDA** | 🔴 | NVIDIA (NVDA) stock experienced a decline on Thursday, February 26, 2026. The stock decreased by 5.40 percent since the ...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a daily change of +0.08, representing a 0.4% increase. Th...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:07)\n---"
+  },
+  {
+    "round": 67,
+    "beijing_time": "2026-02-27T23:08:39.194522+08:00",
+    "ny_time": "2026-02-27T10:08:39.194530-05:00",
+    "report": "\n📊 **美股监控报告 #67**\n**北京时间：** 2026-02-27 23:08\n**纽约时间：** 2026-02-27 10:08  |  距休盘: 6小时52分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) showed a decline in its price....\n| **QQQ** | 🔴 | On Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change of -1.73%. During mid-day trading...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE closed with a price change of -0.92%. Earlier i...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a change in price. According to Investing.com, the stock's price ch...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant drop in its price. Reports indicate a decrease of 5....\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE had a price change of +0.03, resulting in a +0.14% increase. The stoc...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:13)\n---"
+  },
+  {
+    "round": 68,
+    "beijing_time": "2026-02-27T23:14:43.971059+08:00",
+    "ny_time": "2026-02-27T10:14:43.971070-05:00",
+    "report": "\n📊 **美股监控报告 #68**\n**北京时间：** 2026-02-27 23:14\n**纽约时间：** 2026-02-27 10:14  |  距休盘: 6小时46分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | As of the close of markets on February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) stock on the NYSE showed a price chang...\n| **QQQ** | 🔴 | On February 26, 2026, the QQQ stock experienced a price change. It was down by -1.21%, with a closing price of 609.24. A...\n| **BABA** | 🟢 | As of the close on February 26, 2026, the BABA stock price on the NYSE experienced a change of -0.92%. The closing price...\n| **TSLA** | 🟡 | On February 26, 2026, the TSLA stock price changed by -2.86%....\n| **NVDA** | 🟢 | I cannot provide the NVDA stock current price change percentage for February 26, 2026, as that date is in the future. St...\n| **M** | 🟡 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a daily change of -0.1%, with its price at $20.32 as of 3...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:19)\n---"
+  },
+  {
+    "round": 69,
+    "beijing_time": "2026-02-27T23:20:57.112250+08:00",
+    "ny_time": "2026-02-27T10:20:57.112261-05:00",
+    "report": "\n📊 **美股监控报告 #69**\n**北京时间：** 2026-02-27 23:20\n**纽约时间：** 2026-02-27 10:20  |  距休盘: 6小时40分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock experienced a price change of -0.55% to -0.56% on...\n| **QQQ** | 🟡 | The Invesco QQQ Trust (QQQ) experienced a change in its stock price today, February 26, 2026, on the NYSE. The price cha...\n| **BABA** | 🟡 | On February 26, 2026, BABA stock on the NYSE experienced a price change of -0.92%. The stock closed at $146.99 on this d...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86%. Shares dropped nearly 3% during Thursday ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline on the NYSE. Reports indicate a price decrease ranging f...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE saw a price increase of 0.4%. As of 12:11 p.m. ET, the stock was trad...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:25)\n---"
+  },
+  {
+    "round": 70,
+    "beijing_time": "2026-02-27T23:27:03.864363+08:00",
+    "ny_time": "2026-02-27T10:27:03.864373-05:00",
+    "report": "\n📊 **美股监控报告 #70**\n**北京时间：** 2026-02-27 23:27\n**纽约时间：** 2026-02-27 10:27  |  距休盘: 6小时33分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock on the NYSE experienced a price change of approximately -0....\n| **QQQ** | 🔴 | On February 26, 2026, the QQQ stock on the NYSE experienced a price change of -1.73%. This indicates a decrease in its v...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock experienced a price change of -0.92% on the NYSE. The s...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline in its price. Shares dropped nearly 3% in Thursday aftern...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline in its price. The stock decreased by 5.40 percent since ...\n| **M** | 🔴 | On February 26, 2026, the current price change for M stock (Macy's Inc.) on the NYSE is -0.46%. The stock is trading at ...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:32)\n---"
+  },
+  {
+    "round": 71,
+    "beijing_time": "2026-02-27T23:33:19.649688+08:00",
+    "ny_time": "2026-02-27T10:33:19.649697-05:00",
+    "report": "\n📊 **美股监控报告 #71**\n**北京时间：** 2026-02-27 23:33\n**纽约时间：** 2026-02-27 10:33  |  距休盘: 6小时27分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On Thursday, February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a decline in its stock price. Reports indic...\n| **QQQ** | 🟡 | On February 26, 2026, the QQQ ETF experienced a price change of -1.73% on the NYSE....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a price change of -0.92% by market ...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline in its price. It closed down by 2.86% at $405.45. Other r...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline in its price. Reports indicate a decrease ranging from 4...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE showed a modest increase. The stock was trading at $20.32, reflecting...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:38)\n---"
+  },
+  {
+    "round": 72,
+    "beijing_time": "2026-02-27T23:39:36.076493+08:00",
+    "ny_time": "2026-02-27T10:39:36.076505-05:00",
+    "report": "\n📊 **美股监控报告 #72**\n**北京时间：** 2026-02-27 23:39\n**纽约时间：** 2026-02-27 10:39  |  距休盘: 6小时21分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPY stock experienced a decline in its price. According to various reports, the percentage cha...\n| **QQQ** | 🟡 | On Thursday, February 26, 2026, the QQQ stock experienced a price change of -1.73%....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Ltd (BABA) stock on the NYSE experienced a decline in its price. The stock o...\n| **TSLA** | 🔴 | On February 26, 2026, the TSLA stock on the NYSE experienced a price change of -2.86%, closing at $405.45....\n| **NVDA** | 🔴 | On February 26, 2026, NVDA stock experienced a price decrease of 4.44%....\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock price was down 0.92% relative to its opening price. The current share price for M...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:44)\n---"
+  },
+  {
+    "round": 73,
+    "beijing_time": "2026-02-27T23:45:53.599938+08:00",
+    "ny_time": "2026-02-27T10:45:53.599952-05:00",
+    "report": "\n📊 **美股监控报告 #73**\n**北京时间：** 2026-02-27 23:45\n**纽约时间：** 2026-02-27 10:45  |  距休盘: 6小时15分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On Thursday, February 26, 2026, the SPY (SPDR S&P 500 ETF Trust) stock experienced a price decrease of 0.55%. The closin...\n| **QQQ** | 🟡 | On Thursday, February 26, 2026, the QQQ stock experienced a price change of -1.73%. The closing price for QQQ on this da...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (NYSE: BABA) stock traded down 2.8%. The stock closed at $148.05, ha...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a price change of -2.86%. The closing price for the day was $405.45...\n| **NVDA** | 🔴 | On February 26, 2026, NVDA stock experienced a decline in its price. NVIDIA (NVDA) closed down approximately 5.46% on th...\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock price was down 0.92% relative to its opening price. The current share price for M...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:50)\n---"
+  },
+  {
+    "round": 74,
+    "beijing_time": "2026-02-27T23:52:06.504494+08:00",
+    "ny_time": "2026-02-27T10:52:06.504501-05:00",
+    "report": "\n📊 **美股监控报告 #74**\n**北京时间：** 2026-02-27 23:52\n**纽约时间：** 2026-02-27 10:52  |  距休盘: 6小时8分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | I am sorry, but I cannot provide real-time stock market data, including the current price change percentage for SPY stoc...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change. QQQ's price change percentage for the day ...\n| **BABA** | 🟡 | On February 26, 2026, Alibaba (BABA) stock on the NYSE experienced a price change of -0.92%. The stock opened at $148.36...\n| **TSLA** | 🟡 | On Thursday, February 26, 2026, Tesla (NASDAQ: TSLA) stock experienced a decline. The stock closed at $405.45 on the NYS...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a notable decline on the NYSE. The stock decreased by approximatel...\n| **M** | 🔴 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a price change of -0.92% relative to its opening stock pr...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (23:57)\n---"
+  },
+  {
+    "round": 75,
+    "beijing_time": "2026-02-27T23:58:15.639808+08:00",
+    "ny_time": "2026-02-27T10:58:15.639817-05:00",
+    "report": "\n📊 **美股监控报告 #75**\n**北京时间：** 2026-02-27 23:58\n**纽约时间：** 2026-02-27 10:58  |  距休盘: 6小时2分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟢 | I am sorry, but I cannot provide real-time stock price changes. My capabilities do not extend to providing live market d...\n| **QQQ** | 🟡 | The Invesco QQQ Trust (QQQ) experienced a price change of -1.73% on February 26, 2026, on the NYSE....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a notable decline. The stock's ...\n| **TSLA** | 🟢 | On February 26, 2026, Tesla (TSLA) stock experienced a slight increase during the trading day on the NYSE. The stock ope...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline in its price. The percentage change reported by various ...\n| **M** | 🟡 | On February 26, 2026, Macy's (M) stock on the NYSE closed with a price of $20.30, marking a -2.54% change for the day....\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (00:03)\n---"
+  },
+  {
+    "round": 76,
+    "beijing_time": "2026-02-28T00:04:18.719285+08:00",
+    "ny_time": "2026-02-27T11:04:18.719292-05:00",
+    "report": "\n📊 **美股监控报告 #76**\n**北京时间：** 2026-02-28 00:04\n**纽约时间：** 2026-02-27 11:04  |  距休盘: 5小时56分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a decline. It fell by 0.56% according to TipRanks.com...\n| **QQQ** | 🔴 | On February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a price change of -1.73%....\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock experienced a decline in its share price on the NYSE. T...\n| **TSLA** | 🟡 | On February 26, 2026, Tesla (TSLA) stock experienced a change of -2.86% according to Investing.com and -2.12% according ...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a decline. It closed down by 5.46%, with other sources reporting a...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a price change of +0.01, representing a +0.1% increase. T...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (00:09)\n---"
+  },
+  {
+    "round": 77,
+    "beijing_time": "2026-02-28T00:10:37.382125+08:00",
+    "ny_time": "2026-02-27T11:10:37.382136-05:00",
+    "report": "\n📊 **美股监控报告 #77**\n**北京时间：** 2026-02-28 00:10\n**纽约时间：** 2026-02-27 11:10  |  距休盘: 5小时50分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🟡 | On February 26, 2026, the SPY stock experienced a price change of approximately -0.55% to -0.58% on the NYSE. The stock ...\n| **QQQ** | 🟡 | On February 26, 2026, the Invesco QQQ Trust (QQQ) stock price changed by -1.73%. The closing price for QQQ on that day w...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock experienced a decline on the NYSE. The share price trad...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline in its price. The stock was down by approximately 2.1% to...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant decline on the NYSE, with various sources reporting ...\n| **M** | 🟢 | On February 26, 2026, Macy's (M) stock on the NYSE experienced a positive change. The stock was priced at $20.33, reflec...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (00:15)\n---"
+  },
+  {
+    "round": 78,
+    "beijing_time": "2026-02-28T00:16:57.022562+08:00",
+    "ny_time": "2026-02-27T11:16:57.022587-05:00",
+    "report": "\n📊 **美股监控报告 #78**\n**北京时间：** 2026-02-28 00:16\n**纽约时间：** 2026-02-27 11:16  |  距休盘: 5小时44分钟\n\n---\n**📈 核心标的行情：**\n\n| **SPY** | 🔴 | On February 26, 2026, the SPDR S&P 500 ETF Trust (SPY) experienced a price change. SPY was down 0.8% today. Other source...\n| **QQQ** | 🟡 | On Thursday, February 26, 2026, the Invesco QQQ Trust (QQQ) experienced a decline in its price. The QQQ stock ended the ...\n| **BABA** | 🟢 | On February 26, 2026, Alibaba Group Holding Limited (BABA) stock on the NYSE experienced a price decrease of approximate...\n| **TSLA** | 🔴 | On February 26, 2026, Tesla (TSLA) stock experienced a decline. The stock was down 2.86%. Other reports indicate a decre...\n| **NVDA** | 🔴 | On February 26, 2026, NVIDIA (NVDA) stock experienced a significant price change. It closed down by 5.46% at $184.89. An...\n| **M** | 🟡 | 获取失败: HTTPSConnectionPool(host='generativelanguage.googl...\n\n**✅ 异动检测：** 无重大异动（涨跌幅<3%）\n\n**⏱️ 下次报告：** 5分钟后 (00:21)\n---"
+  }
+]
