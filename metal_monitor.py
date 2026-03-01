@@ -1,140 +1,162 @@
 #!/opt/homebrew/bin/python3.13
-"""贵金属及有色金属实时监控脚本"""
+"""贵金属及有色金属实时监控脚本 - 雅虎财经版"""
 import requests
 import json
 from datetime import datetime, timezone, timedelta
 import os
+import yfinance as yf
 
-# 监控的贵金属和有色金属
-METALS = {
+# 雅虎财经代码映射
+YAHOO_SYMBOLS = {
     # 贵金属
-    'XAUUSD': {'name': '黄金', 'unit': '美元/盎司'},
-    'XAGUSD': {'name': '白银', 'unit': '美元/盎司'},
-    'XPTUSD': {'name': '铂金', 'unit': '美元/盎司'},
-    'XPDUSD': {'name': '钯金', 'unit': '美元/盎司'},
-    # 有色金属 (LME/上海)
-    'HGUSD': {'name': '铜', 'unit': '美元/磅'},
-    'ALIUSD': {'name': '铝', 'unit': '美元/吨'},
-    'NIUSD': {'name': '镍', 'unit': '美元/吨'},
-    'ZNUSD': {'name': '锌', 'unit': '美元/吨'},
+    'GC=F': {'name': '黄金', 'unit': '美元/盎司', 'yahoo': 'GC=F'},
+    'SI=F': {'name': '白银', 'unit': '美元/盎司', 'yahoo': 'SI=F'},
+    'PL=F': {'name': '铂金', 'unit': '美元/盎司', 'yahoo': 'PL=F'},
+    'PA=F': {'name': '钯金', 'unit': '美元/盎司', 'yahoo': 'PA=F'},
+    # 有色金属 (COMEX/LME期货)
+    'HG=F': {'name': '铜', 'unit': '美元/磅', 'yahoo': 'HG=F'},
+    'ALI=F': {'name': '铝', 'unit': '美元/吨', 'yahoo': 'ALI=F'},  
+    'ZN=F': {'name': '锌', 'unit': '美元/吨', 'yahoo': 'ZN=F'},
 }
 
 def get_btc_price():
-    """获取比特币价格"""
+    """获取比特币价格 (雅虎财经)"""
     try:
-        # 使用 CoinGecko API (免费)
-        url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
-        resp = requests.get(url, timeout=10)
-        data = resp.json()
-        if data and 'bitcoin' in data:
-            btc = data['bitcoin']
-            return {
-                'name': '比特币',
-                'symbol': 'BTC',
-                'price': btc['usd'],
-                'change_pct': btc.get('usd_24h_change', 0),
-                'unit': '美元'
-            }
-    except Exception as e:
-        # 使用备用价格
-        import random
-        base = 57000
-        change = random.uniform(-2, 2)
+        btc = yf.Ticker("BTC-USD")
+        info = btc.info
+        current = info.get('regularMarketPrice', 0)
+        prev = info.get('regularMarketPreviousClose', 0)
+        change_pct = ((current - prev) / prev * 100) if prev else 0
         return {
             'name': '比特币',
             'symbol': 'BTC',
-            'price': round(base * (1 + change/100), 2),
-            'change_pct': round(change, 2),
+            'price': current,
+            'change_pct': round(change_pct, 2),
             'unit': '美元'
         }
-    return None
-
-def get_metal_price(symbol, info):
-    """获取贵金属价格"""
-    try:
-        # 使用汇率API获取大致价格（模拟数据）
-        # 实际生产环境应该使用专业金融数据API
-        
-        # 这里使用Alpha Vantage风格的API或模拟
-        # 由于免费API限制，使用缓存的基准价格+随机波动模拟实时
-        
-        base_prices = {
-            'XAUUSD': 2850.50,
-            'XAGUSD': 31.20,
-            'XPTUSD': 950.00,
-            'XPDUSD': 950.00,
-            'HGUSD': 4.50,
-            'ALIUSD': 2400.00,
-            'NIUSD': 16500.00,
-            'ZNUSD': 2800.00,
-        }
-        
-        # 模拟实时波动（±0.5%）
-        import random
-        base = base_prices.get(symbol, 1000)
-        change = random.uniform(-0.5, 0.5)
-        price = base * (1 + change/100)
-        
-        return {
-            'name': info['name'],
-            'symbol': symbol,
-            'price': round(price, 2),
-            'change_pct': round(change, 2),
-            'unit': info['unit']
-        }
     except Exception as e:
-        return {'name': info['name'], 'symbol': symbol, 'error': str(e)[:30]}
+        # 备用: CoinGecko
+        try:
+            url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
+            resp = requests.get(url, timeout=10)
+            data = resp.json()
+            if data and 'bitcoin' in data:
+                btc = data['bitcoin']
+                return {
+                    'name': '比特币',
+                    'symbol': 'BTC',
+                    'price': btc['usd'],
+                    'change_pct': round(btc.get('usd_24h_change', 0), 2),
+                    'unit': '美元'
+                }
+        except:
+            pass
+        return {'name': '比特币', 'symbol': 'BTC', 'error': str(e)[:30]}
 
-def get_real_gold_price():
-    """尝试获取真实黄金价格"""
+def get_metal_from_yahoo(symbol, info):
+    """从雅虎财经获取金属价格"""
     try:
-        # 使用新浪财经API
-        url = "https://hq.sinajs.cn/list=hf_GC"
-        headers = {'Referer': 'https://finance.sina.com.cn'}
-        resp = requests.get(url, headers=headers, timeout=10)
-        if resp.status_code == 200:
-            # 解析返回数据
-            content = resp.text
-            if 'var hq_str_hf_GC=' in content:
+        ticker = yf.Ticker(symbol)
+        hist = ticker.history(period="2d", interval="1d")
+        
+        if len(hist) >= 2:
+            current = hist['Close'].iloc[-1]
+            prev = hist['Close'].iloc[-2]
+            change_pct = ((current - prev) / prev) * 100
+            
+            return {
+                'name': info['name'],
+                'symbol': symbol,
+                'price': round(current, 2),
+                'change_pct': round(change_pct, 2),
+                'unit': info['unit']
+            }
+        elif len(hist) == 1:
+            current = hist['Close'].iloc[-1]
+            return {
+                'name': info['name'],
+                'symbol': symbol,
+                'price': round(current, 2),
+                'change_pct': 0,
+                'unit': info['unit']
+            }
+    except Exception as e:
+        pass
+    
+    # 备用: 新浪财经
+    return get_metal_from_sina(symbol, info)
+
+def get_metal_from_sina(symbol, info):
+    """新浪财经备用"""
+    try:
+        sina_map = {
+            'GC=F': 'hf_GC',  # 黄金
+            'SI=F': 'hf_SI',  # 白银
+        }
+        if symbol in sina_map:
+            url = f"https://hq.sinajs.cn/list={sina_map[symbol]}"
+            headers = {'Referer': 'https://finance.sina.com.cn'}
+            resp = requests.get(url, headers=headers, timeout=10)
+            if resp.status_code == 200:
+                content = resp.text
                 data = content.split('"')[1].split(',')
                 if len(data) > 1:
                     price = float(data[0])
-                    change = float(data[1]) if len(data) > 1 else 0
-                    return price, change
+                    change = float(data[1])
+                    return {
+                        'name': info['name'],
+                        'symbol': symbol,
+                        'price': price,
+                        'change_pct': round(change, 2),
+                        'unit': info['unit']
+                    }
     except:
         pass
-    return None, None
+    
+    return {'name': info['name'], 'symbol': symbol, 'unit': info.get('unit', '美元/盎司'), 'error': '获取失败'}
 
-def get_real_silver_price():
-    """尝试获取真实白银价格"""
+def get_nickel_price():
+    """获取镍价格 (LME镍)"""
     try:
-        url = "https://hq.sinajs.cn/list=hf_SI"
-        headers = {'Referer': 'https://finance.sina.com.cn'}
-        resp = requests.get(url, headers=headers, timeout=10)
-        if resp.status_code == 200:
-            content = resp.text
-            if 'var hq_str_hf_SI=' in content:
-                data = content.split('"')[1].split(',')
-                if len(data) > 1:
-                    price = float(data[0])
-                    change = float(data[1]) if len(data) > 1 else 0
-                    return price, change
+        # 使用LME镍的ETF或相关股票作为参考
+        ticker = yf.Ticker("NILA.L")  # LME Nickel ETF
+        info = ticker.info
+        current = info.get('regularMarketPrice', 0)
+        prev = info.get('regularMarketPreviousClose', 0)
+        if current and prev:
+            change_pct = ((current - prev) / prev) * 100
+            return {
+                'name': '镍',
+                'symbol': 'NIUSD',
+                'price': round(current * 100, 2),  # 换算成美元/吨
+                'change_pct': round(change_pct, 2),
+                'unit': '美元/吨'
+            }
     except:
         pass
-    return None, None
+    
+    # 备用: 返回带错误标记的数据
+    return {
+        'name': '镍',
+        'symbol': 'NIUSD',
+        'price': 'N/A',
+        'change_pct': 0,
+        'unit': '美元/吨',
+        'error': '暂无数据源'
+    }
 
 def generate_report():
     """生成监控报告"""
     beijing = datetime.now(timezone(timedelta(hours=8)))
     utc = datetime.now(timezone.utc)
     
-    # 记录检测开始时间
     start_time = datetime.now()
     
     report = f"""
 💰 **贵金属 & 加密货币 & 有色金属监控报告**
 **检测时间：** {beijing.strftime('%Y-%m-%d %H:%M:%S')} (北京时间)
 **UTC时间：** {utc.strftime('%H:%M:%S')}
+**数据源：** 雅虎财经 + 新浪财经
 
 ---
 **🥇 贵金属行情：**
@@ -143,69 +165,76 @@ def generate_report():
     
     results = []
     
-    # 尝试获取真实黄金/白银价格
-    gold_price, gold_change = get_real_gold_price()
-    silver_price, silver_change = get_real_silver_price()
-    
     # 黄金
-    if gold_price:
-        emoji = "🟢" if gold_change >= 0 else "🔴"
-        report += f"| **黄金** (XAUUSD) | {emoji} | **{gold_price:.2f}** | {gold_change:+.2f}% | 美元/盎司 |\n"
-        results.append({'name': '黄金', 'change': gold_change})
-    else:
-        data = get_metal_price('XAUUSD', METALS['XAUUSD'])
-        emoji = "🟢" if data['change_pct'] >= 0 else "🔴"
-        report += f"| **{data['name']}** ({data['symbol']}) | {emoji} | **{data['price']:.2f}** | {data['change_pct']:+.2f}% | {data['unit']} |\n"
-        results.append(data)
+    data = get_metal_from_yahoo('GC=F', YAHOO_SYMBOLS['GC=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (XAUUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
     
     # 白银
-    if silver_price:
-        emoji = "🟢" if silver_change >= 0 else "🔴"
-        report += f"| **白银** (XAGUSD) | {emoji} | **{silver_price:.2f}** | {silver_change:+.2f}% | 美元/盎司 |\n"
-        results.append({'name': '白银', 'change': silver_change})
-    else:
-        data = get_metal_price('XAGUSD', METALS['XAGUSD'])
-        emoji = "🟢" if data['change_pct'] >= 0 else "🔴"
-        report += f"| **{data['name']}** ({data['symbol']}) | {emoji} | **{data['price']:.2f}** | {data['change_pct']:+.2f}% | {data['unit']} |\n"
-        results.append(data)
+    data = get_metal_from_yahoo('SI=F', YAHOO_SYMBOLS['SI=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (XAGUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
     
-    # 其他贵金属
-    for symbol in ['XPTUSD', 'XPDUSD']:
-        data = get_metal_price(symbol, METALS[symbol])
-        emoji = "🟢" if data['change_pct'] >= 0 else "🔴"
-        report += f"| **{data['name']}** ({data['symbol']}) | {emoji} | **{data['price']:.2f}** | {data['change_pct']:+.2f}% | {data['unit']} |\n"
-        results.append(data)
+    # 铂金
+    data = get_metal_from_yahoo('PL=F', YAHOO_SYMBOLS['PL=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (XPTUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
+    
+    # 钯金
+    data = get_metal_from_yahoo('PA=F', YAHOO_SYMBOLS['PA=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (XPDUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
     
     # 比特币
     report += "\n**₿ 加密货币行情：**\n\n"
     btc_data = get_btc_price()
-    if btc_data:
-        emoji = "🟢" if btc_data['change_pct'] >= 0 else "🔴"
-        report += f"| **{btc_data['name']}** ({btc_data['symbol']}) | {emoji} | **${btc_data['price']:,.2f}** | {btc_data['change_pct']:+.2f}% | {btc_data['unit']} |\n"
-        results.append(btc_data)
+    emoji = "🟢" if btc_data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{btc_data['name']}** ({btc_data['symbol']}) | {emoji} | **${btc_data.get('price', 'N/A'):,.2f}** | {btc_data.get('change_pct', 0):+.2f}% | {btc_data['unit']} |\n"
+    results.append(btc_data)
     
     report += "\n**🔧 有色金属行情：**\n\n"
     
-    # 有色金属
-    for symbol in ['HGUSD', 'ALIUSD', 'NIUSD', 'ZNUSD']:
-        data = get_metal_price(symbol, METALS[symbol])
-        emoji = "🟢" if data['change_pct'] >= 0 else "🔴"
-        report += f"| **{data['name']}** ({data['symbol']}) | {emoji} | **{data['price']:.2f}** | {data['change_pct']:+.2f}% | {data['unit']} |\n"
-        results.append(data)
+    # 铜
+    data = get_metal_from_yahoo('HG=F', YAHOO_SYMBOLS['HG=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (HGUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
+    
+    # 铝
+    data = get_metal_from_yahoo('ALI=F', YAHOO_SYMBOLS['ALI=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (ALIUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
+    
+    # 镍
+    data = get_nickel_price()
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (NIUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
+    
+    # 锌
+    data = get_metal_from_yahoo('ZN=F', YAHOO_SYMBOLS['ZN=F'])
+    emoji = "🟢" if data.get('change_pct', 0) >= 0 else "🔴"
+    report += f"| **{data['name']}** (ZNUSD) | {emoji} | **{data.get('price', 'N/A')}** | {data.get('change_pct', 0):+.2f}% | {data['unit']} |\n"
+    results.append(data)
     
     # 异动检测
-    big_moves = [r for r in results if abs(r.get('change_pct', 0)) >= 1.5 or abs(r.get('change', 0)) >= 1.5]
+    big_moves = [r for r in results if abs(r.get('change_pct', 0)) >= 1.5 and 'error' not in r]
     
     report += "\n**⚠️ 异动检测（≥1.5%）：**\n"
     if big_moves:
         for r in big_moves:
-            change = r.get('change_pct', r.get('change', 0))
+            change = r.get('change_pct', 0)
             direction = "上涨" if change > 0 else "下跌"
             report += f"- {r['name']} {direction} **{change:+.2f}%**\n"
     else:
         report += "✅ 市场平稳，无显著异动\n"
     
-    # 计算检测耗时
+    # 检测耗时
     end_time = datetime.now()
     elapsed = (end_time - start_time).total_seconds()
     
